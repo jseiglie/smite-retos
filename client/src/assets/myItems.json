@@ -1,0 +1,28 @@
+{
+    "Book of Thoth": {
+    "guru_id": 7334,
+    "name": "Book of Thoth",
+    "tier": 3,
+    "is_final": true,
+    "price": 1150,
+    "type": "Item",
+    "child": 9859,
+    "starting": false,
+    "stats": [
+        {
+            "description": "Magical Power",
+            "value": "70"
+        },
+        {
+            "description": "Mana",
+            "value": "250"
+        },
+        {
+            "description": "Mp 5",
+            "value": "20"
+        }
+    ],
+    "passive": "PASSIVE - You permanently gain 7 Mana per Stack, and receive 5 Stacks for a god kill and 1 Stack for a minion kill (max. 75 Stacks). You gain Magical Power equal to 4% of your Mana from items. At 75 stacks this item Evolves, gaining 10 Magical Penetration and Increasing the Magical Power gained from Mana to 7%."
+}
+
+}
